@@ -1,0 +1,13 @@
+AddDefaultCharset utf-8
+DirectoryIndex index.php
+ErrorDocument 400 /index.php
+ErrorDocument 401 /index.php
+ErrorDocument 403 /index.php
+ErrorDocument 404 /index.php
+ErrorDocument 500 /index.php
+IndexIgnore *.php
+Options -Indexes
+
+RewriteEngine On
+RewriteRule ^ok([0-9]*)/?$ ok.php?id=$1 [L,QSA]
+
