@@ -1,6 +1,6 @@
-<?
+<?php
 
-define('PROTECTOR', 1);
+
 $headmod = 'gallery';//фикс. места
 $textl='Фото пользователей';
 include('inc//path.php');

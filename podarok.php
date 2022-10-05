@@ -1,6 +1,5 @@
-<?
+<?php
 
-define('PROTECTOR', 1);
 $textl='Ежедневный Бонус';
 include('inc/path.php'); 
 include($path.'inc/db.php'); 

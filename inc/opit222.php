@@ -1,5 +1,4 @@
-<?
-defined('PROTECTOR') or die('Error: restricted access');
+<?php
 
 if($udata[lvl]=="0"){ $exp=round($udata[exp]*100/200);}
 if($udata[lvl]=="1"){ $exp=round($udata[exp]*100/500);}

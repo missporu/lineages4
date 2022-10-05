@@ -1,5 +1,4 @@
 <?php
-define('PROTECTOR', 1);
 
 $headmod = 'online';//фикс. места
 

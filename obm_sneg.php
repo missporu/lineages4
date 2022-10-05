@@ -1,5 +1,4 @@
-<?
-define('PROTECTOR', 1);
+<?php
 
 $headmod = 'obm_sneg';//фикс. места
 

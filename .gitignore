@@ -1,6 +1,6 @@
-/system/class/SafeMySQL.php
-/system/class/Admin.php
-/system/setting.php
+/inc/class/SafeMySQL.php
+/inc/class/Admin.php
+/inc/setting.php
 /images
 /shmot
 /foto

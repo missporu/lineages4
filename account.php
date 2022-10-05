@@ -1,5 +1,5 @@
 <?php
-define('PROTECTOR', 1);
+
 
 $textl='Регистрация аккаунта';
 include('inc/path.php');

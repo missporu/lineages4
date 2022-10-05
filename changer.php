@@ -1,5 +1,5 @@
-<?
-define('PROTECTOR', 1);
+<?php
+
 $headmod = 'changer';//фикс. места
 $textl='Обмен';
 $path='';

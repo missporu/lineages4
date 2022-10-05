@@ -1,5 +1,5 @@
-<?
-define('PROTECTOR', 1);
+<?php
+
 $headmod = 'historynick';//фикс. места
 $textl='История смены ника';
 include('inc/path.php');

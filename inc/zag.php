@@ -1,5 +1,5 @@
-<?
-defined('PROTECTOR') or die('Error: restricted access');
+<?php
+
 $req1 = mysql_query("SELECT * FROM `aluko`");   
 $aluko = mysql_fetch_array($req1);
 

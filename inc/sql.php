@@ -1,5 +1,5 @@
 <?php
-defined('PROTECTOR') or die('Error: restricted access');
+
 class InitVars {
 # Недопустимые слова в запросахINSERT
         var $deny_words = array('UNION','CHAR','INSERT','DELETE','SELECT','UPDATE','GROUP','ORDER','BENCHMARK','union','char','insert','delete','select','update','group','order','benchmark','UNIOu','UNIoN','UNiON','UnION','uNION','uNIOn','uNIoN','uNiON','unION','uniOn','UNIon','uNiOn','UNion','UnIoN','UnIon','unIoN','DELETe','DELEte','DELete','DElete','Delete','dELETE','deLETE','deleTE','delETE','DeLeTe','dElEtE','dElETE','DELeTe','DElETE','DeLETE','DELEtE','DEletE','DeleTE','DelETE','DEleTE','DELetE','CHAr','CHaR','ChAR','cHAR','chAR','CHar','CahR','chAr','cHAr','chAR','ChAr','INSERt','INSErT','INSeRT','INsERT','InSERT','iNSERT','INSErt','INSerT','INseRT','InsERT','inSERT','INSert','INserT','InseRT','insERT','INsert','InserT','inseRT','Insert','insertT','SELECt','SELEcT','SELeCT','SElECT','SeLECT','sELECT','SELEct','SELecT','SEleCT','SelECT','seLECT','SELect','SElecT','SeleCT','selECT','SElect','SelecT','seleCT','Select','selectT'

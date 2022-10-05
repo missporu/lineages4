@@ -1,5 +1,5 @@
-<?
-define('PROTECTOR', 1);
+<?php
+
 $headmod = 'bazar';//фикс. места
 $textl='Базар ресурсов';
 include('inc/path.php');

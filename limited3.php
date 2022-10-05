@@ -1,5 +1,4 @@
 <?php
-define('PROTECTOR', 1);
  
 $textl='Бонус при Покупке';
 include('inc/path.php');

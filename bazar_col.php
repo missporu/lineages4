@@ -1,5 +1,4 @@
-<?
-define('PROTECTOR', 1);
+<?php
 
 $headmod = 'bazar_col';//фикс. места
 

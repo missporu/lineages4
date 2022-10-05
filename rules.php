@@ -1,5 +1,5 @@
 <?php
-define('PROTECTOR', 1);
+
 
 $textl='Правила игры';
 include('inc/path.php');

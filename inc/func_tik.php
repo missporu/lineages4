@@ -1,8 +1,4 @@
 <?php
-defined('PROTECTOR') or die('Error: restricted access');
-
-
-
 
 function nav2($link, $link_name){
 	echo '<br/><a href="'.$link.'">'.$link_name.'</a>';

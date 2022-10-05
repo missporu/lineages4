@@ -1,5 +1,4 @@
-<?
-defined('PROTECTOR') or die('Error: restricted access');
+<?php
 
 $isfffgfgthfg = 0;
 while ($isfffgfgthfg < 1){

@@ -1,5 +1,5 @@
-<?
-define('PROTECTOR', 1);
+<?php
+
 $headmod = 'changenick';//фикс. места
 $textl='Смена ника';
 include('inc/path.php');

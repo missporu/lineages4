@@ -1,5 +1,5 @@
 <?php
-define('PROTECTOR', 1);
+
 
 $headmod = 'tchat';//фикс. места
 

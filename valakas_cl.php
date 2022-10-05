@@ -1,7 +1,6 @@
-<?
-define('PROTECTOR', 1);  
+<?php
    
-$textl='Valakas';  
+$textl='Valakas';
 include('inc/path.php');  
 include($path.'inc/db.php');  
 include($path.'inc/auth.php');  

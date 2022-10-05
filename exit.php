@@ -1,5 +1,5 @@
-<?
-define('PROTECTOR', 1);
+<?php
+
 $headmod = 'exit';//фикс. места
 $textl='Выход';
 include('inc/path.php');

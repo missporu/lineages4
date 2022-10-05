@@ -1,5 +1,5 @@
-<?
-define('PROTECTOR', 1); 
+<?php
+
 $textl='Vip 1000';
 include('inc/path.php');  
 include($path.'inc/db.php');  

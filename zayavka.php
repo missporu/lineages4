@@ -1,5 +1,5 @@
-<?
-define('PROTECTOR', 1);
+<?php
+
 $headmod = 'zayavka';//фикс. места
 $textl='Предложения замуж';
 include('inc/path.php');

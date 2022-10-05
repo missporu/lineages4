@@ -1,5 +1,5 @@
 <?php
-defined('PROTECTOR') or die('Error: restricted access');
+
 
 //-------------------------------------
   $req654654 = mysql_num_rows(mysql_query("SELECT * FROM `users` WHERE `usr` = '$log' and `dostup` >= '4' LIMIT 1"));

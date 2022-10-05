@@ -1,5 +1,5 @@
 <?php
-define('PROTECTOR', 1); 
+
 $path = '../';
 include($path.'inc/db.php');
 include($path.'inc/auth.php');

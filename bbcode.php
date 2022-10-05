@@ -1,5 +1,5 @@
 <?php
-define('PROTECTOR', 1);
+
 
 $textl='Справка по смайлам';
 include('inc/path.php');

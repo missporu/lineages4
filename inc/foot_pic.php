@@ -1,5 +1,4 @@
-<?
-defined('PROTECTOR') or die('Error: restricted access');
+<?php
 
 // ответ в чате
 $avto_chat = mysql_num_rows(mysql_query("SELECT * FROM `chat_otv` WHERE `usr` = '$log' LIMIT 1"));

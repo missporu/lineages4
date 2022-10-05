@@ -1,5 +1,4 @@
-<?
-define('PROTECTOR', 1);
+<?php
 
 $headmod = 'res';//фикс. места
 
@@ -33,7 +32,7 @@ default:
 
 echo'<div class="menu">';
 
-echo" <center><img src='pic/roz/res.jpg'  width='300' height='130' alt='' style='margin-right:10px;border:1px solid #383838' class='dot'></div><hr/>";
+echo " <center><img src='../img/roz/res.jpg'  width='300' height='130' alt='' style='margin-right:10px;border:1px solid #383838' class='dot'></div><hr/>";
 echo"<b> Выберите способ воскрешения.<br/></b>";
 
 $exp = $udata[exp]*0.005;

@@ -1,5 +1,4 @@
-<?
-define('PROTECTOR', 1);
+<?php
 
 $textl='Чат Магазин';
 include('inc/path.php');

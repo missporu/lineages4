@@ -3,7 +3,6 @@
     #Также создайте biznes_dohod
     
 
-define('PROTECTOR', 1);
 $textl='Бонус при Покупке';
 include('inc/path.php'); 
 include($path.'inc/db.php'); 

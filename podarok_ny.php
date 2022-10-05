@@ -1,5 +1,5 @@
-<?
-define('PROTECTOR', 1); 
+<?php
+
 $head = 'podarok';//фикс. места 
 $textl='новогодний подарок';
 include($path.'inc/db.php');  

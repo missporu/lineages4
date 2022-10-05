@@ -1,5 +1,5 @@
 <?php
-define('PROTECTOR', 1);
+
 $path = '../';  
 $textl='покупка'; 
 include('inc/path.php');   

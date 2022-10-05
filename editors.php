@@ -5,7 +5,6 @@
  * @copyright 2014
  */
 
-define('PROTECTOR', 1);
 
 $headmod = 'adm_panel';//фикс. места
 

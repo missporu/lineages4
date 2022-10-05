@@ -1,5 +1,4 @@
-<?
-define('PROTECTOR', 1);
+<?php
 
 $headmod = 'col_bonus';//фикс. места
 

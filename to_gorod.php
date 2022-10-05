@@ -1,5 +1,4 @@
-<?
-define('PROTECTOR', 1);
+<?php
 
 include('inc/path.php');
 include($path.'inc/db.php');

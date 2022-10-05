@@ -1,5 +1,4 @@
 <?php
-defined('PROTECTOR') or die('Error: restricted access');
 
 
 ////////////		открываем информацию о данных игрока снова 	//////////////

@@ -1,5 +1,4 @@
-<?
-defined('PROTECTOR') or die('Error: restricted access');
+<?php
 
 if ($user_id=='1'){
 if(empty($header)){

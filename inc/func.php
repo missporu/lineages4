@@ -1,5 +1,5 @@
 <?php
-defined('PROTECTOR') or die('Error: restricted access');
+
 function n_f($i) {
 if($i >= 10000 && $i < 1000000) { 
 $i = number_format($i, 0, '', '.'); 

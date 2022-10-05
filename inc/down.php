@@ -1,5 +1,4 @@
-<?
-defined('PROTECTOR') or die('Error: restricted access');
+<?php
 
 // если игрок в бане чат не выводится
 $avto_ban = mysql_num_rows(mysql_query("SELECT * FROM `ban` WHERE `usr` = '$log' LIMIT 1"));
